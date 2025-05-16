@@ -30,7 +30,11 @@
 
 6. Ejecuta las migraciones para crear las tablas en la base de datos:
 
-   php artisan migrate
+   php artisan 
+   
+ 7. Ejecuta el seeder:
+
+   php artisan db:seed
 
 ## Ejecución del Proyecto
 
