@@ -11,7 +11,7 @@
 
 1. Clona este repositorio en tu máquina local:
 
-   git clone <https://github.com/Dusbchek/aaPITODOcpixil.git>
+   git clone <https://github.com/Dusbchek/COPIXILAPI.git>
    cd <AAPITODOCOPIXIL>
 
 2. Instala las dependencias PHP con Composer:
