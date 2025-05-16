@@ -8,7 +8,7 @@ class StoreTeamRequest extends FormRequest
 {
     public function authorize(): bool
     {
-        return true; // Puedes personalizar con lógica adicional
+        return true; 
     }
 
     public function rules(): array
