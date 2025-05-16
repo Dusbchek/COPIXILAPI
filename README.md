@@ -1,5 +1,4 @@
 
-# Guía de Configuración del Proyecto Laravel
 
 ## Requisitos Previos
 
@@ -18,21 +17,19 @@
 
    composer install
 
-3. Instala las dependencias de Node.js:
 
-   npm install
 
-4. Configura las variables de entorno en .env
+3. Configura las variables de entorno en .env
 
-5. Genera la clave de la aplicación Laravel en caso de necesitarla:
+4. Genera la clave de la aplicación Laravel en caso de necesitarla:
 
    php artisan key:generate
 
-6. Ejecuta las migraciones para crear las tablas en la base de datos:
+5. Ejecuta las migraciones para crear las tablas en la base de datos:
 
    php artisan 
    
- 7. Ejecuta el seeder:
+ 6. Ejecuta el seeder:
 
    php artisan db:seed
 
